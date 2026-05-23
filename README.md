@@ -1,4 +1,4 @@
-# Olist E-Commerce SQL Analysis
+# Olist E-commerce Sql Analysis
 
 A business intelligence case study on 100,000+ Brazilian e-commerce orders using MySQL.
 Built as part of my data science portfolio to demonstrate advanced SQL and analytical thinking.
