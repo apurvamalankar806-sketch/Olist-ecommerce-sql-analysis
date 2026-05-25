@@ -33,4 +33,4 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 
 ## Status
 
-🔄 In progress — Phase 1 (Exploration) complete
+- In progress — Phase 1 (Exploration) complete
