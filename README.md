@@ -60,3 +60,18 @@ R$12.5M in total payment value. Boleto (a Brazilian bank slip) is a distant
 second at 19,784 orders — reflecting typical Brazilian payment preferences.
 
 ---
+## Project Structure
+
+- `data/` — schema and table definitions
+- `01_exploration/` — initial data exploration and sanity checks
+- `02_revenue_analysis/` — top categories, revenue by state, payment methods
+- `03_seller_performance/` — delivery delays, ratings, volume
+- `04_cohort_analysis/` — customer retention by signup month
+- `05_repeat_purchase/` — repeat purchase funnel and order gap analysis
+- `visualisations/` — Python charts generated from SQL outputs
+
+---
+
+## Status
+
+🔄 In progress — Phase 2 (Revenue Analysis) complete
