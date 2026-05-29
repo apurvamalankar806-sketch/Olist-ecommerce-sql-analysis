@@ -33,3 +33,30 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 - Which sellers generate the highest revenue?
 
 ---
+## Key Findings
+
+**Order fulfillment is highly reliable**
+96.5% of 99,441 orders were successfully delivered, with a cancellation 
+rate of just 0.6% — indicating a strong and consistent fulfillment 
+pipeline across 2016–2018.
+
+**Home and lifestyle dominate product demand**
+Bed, bath and table products (cama_mesa_banho) is the top ordered category 
+with 11,115 orders, followed by health & beauty (9,670) and sports & leisure 
+(8,641) — reflecting strong demand for everyday home essentials.
+
+**São Paulo drives the majority of revenue**
+SP state accounts for R$5,067,633 in revenue across 40,501 orders — nearly 
+3x the second largest state (RJ at R$1,759,651). The top 3 states (SP, RJ, MG) 
+together represent over 60% of total platform revenue.
+
+**Average order value sits at R$160**
+At R$160.58 per order, the platform targets the mid-range consumer segment, 
+consistent with Brazil's e-commerce market positioning.
+
+**Credit card is the dominant payment method**
+76,505 orders (77% of all transactions) were paid by credit card, generating 
+R$12.5M in total payment value. Boleto (a Brazilian bank slip) is a distant 
+second at 19,784 orders — reflecting typical Brazilian payment preferences.
+
+---
