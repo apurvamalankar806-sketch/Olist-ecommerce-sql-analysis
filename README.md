@@ -1,5 +1,5 @@
 # Olist E-Commerce SQL Analysis
-
+---
 A business intelligence case study on 100,000+ Brazilian e-commerce orders 
 using MySQL. This project explores sales distribution, customer behaviour, 
 product performance, and revenue trends across a real-world dataset from 
