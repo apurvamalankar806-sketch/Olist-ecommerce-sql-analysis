@@ -5,23 +5,17 @@ using MySQL. This project explores sales distribution, customer behaviour,
 product performance, and revenue trends across a real-world dataset from 
 Brazil's largest e-commerce marketplace.
 
----
-
 ## Dataset
-
 Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 - 99,441 orders placed between 2016–2018
 - 9 relational tables: orders, customers, sellers, products, payments, reviews
 
----
 ## Tools Used
 
 - MySQL — all analysis and querying
 - Python (Pandas, SQLAlchemy) — data loading and visualisations
 - Jupyter Notebook — charts and presentation
-
----
 
 ## Questions Explored
 
@@ -32,7 +26,6 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 - Which payment methods do customers prefer?
 - Which sellers generate the highest revenue?
 
----
 ## Key Findings
 
 **Order fulfillment is highly reliable**
@@ -59,9 +52,7 @@ consistent with Brazil's e-commerce market positioning.
 R$12.5M in total payment value. Boleto (a Brazilian bank slip) is a distant 
 second at 19,784 orders — reflecting typical Brazilian payment preferences.
 
----
 ## Project Structure
-
 - `data/` — schema and table definitions
 - `01_exploration/` — initial data exploration and sanity checks
 - `02_revenue_analysis/` — top categories, revenue by state, payment methods
@@ -70,8 +61,5 @@ second at 19,784 orders — reflecting typical Brazilian payment preferences.
 - `05_repeat_purchase/` — repeat purchase funnel and order gap analysis
 - `visualisations/` — Python charts generated from SQL outputs
 
----
-
 ## Status
-
-🔄 In progress — Phase 2 (Revenue Analysis) complete
+In progress — Phase 2 (Revenue Analysis) complete
