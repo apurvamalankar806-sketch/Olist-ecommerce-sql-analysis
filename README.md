@@ -8,7 +8,7 @@ Brazil's largest e-commerce marketplace.
 ## Dataset
 Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-- 99,441 orders placed between 2016–2018
+- 99,441 orders placed between 2016-2018
 - 9 relational tables: orders, customers, sellers, products, payments, reviews
 
 ## Tools Used
