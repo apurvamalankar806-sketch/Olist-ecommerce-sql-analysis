@@ -28,7 +28,7 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 
 ## Key Findings
 
-**Order fulfillment is highly reliable**
+**Order fulfillment is highly reliable**<br>
 96.5% of 99,441 orders were successfully delivered, with a cancellation 
 rate of just 0.6% — indicating a strong and consistent fulfillment 
 pipeline across 2016–2018.
