@@ -33,7 +33,7 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 rate of just 0.6% — indicating a strong and consistent fulfillment 
 pipeline across 2016–2018.
 
-**Home and lifestyle dominate product demand**
+**Home and lifestyle dominate product demand**<br>
 Bed, bath and table products (cama_mesa_banho) is the top ordered category 
 with 11,115 orders, followed by health & beauty (9,670) and sports & leisure 
 (8,641) — reflecting strong demand for everyday home essentials.
