@@ -38,7 +38,7 @@ Bed, bath and table products (cama_mesa_banho) is the top ordered category
 with 11,115 orders, followed by health & beauty (9,670) and sports & leisure 
 (8,641) — reflecting strong demand for everyday home essentials.
 
-**São Paulo drives the majority of revenue**
+**São Paulo drives the majority of revenue**<br>
 SP state accounts for R$5,067,633 in revenue across 40,501 orders — nearly 
 3x the second largest state (RJ at R$1,759,651). The top 3 states (SP, RJ, MG) 
 together represent over 60% of total platform revenue.
