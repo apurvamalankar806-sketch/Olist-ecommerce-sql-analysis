@@ -63,7 +63,7 @@ states (SP, RJ, MG) together represent over 60% of total platform revenue.
 SP also accounts for the highest number of cancellations, suggesting
 volume and cancellation risk scale together.
 
-**Average order value sits at R$160**
+**Average order value sits at R$160**<br>
 At R$160.58 per order, the platform targets the mid-range consumer
 segment, consistent with Brazil's e-commerce market positioning.
 
