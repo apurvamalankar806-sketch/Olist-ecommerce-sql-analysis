@@ -50,7 +50,7 @@ May 2018 — a 24x increase in under 2 years. A notable spike occurred
 in November 2017 (R$987,765) driven by Black Friday, making it the
 single highest revenue month in the dataset.
 
-**Home and lifestyle dominate product demand**
+**Home and lifestyle dominate product demand**<br>
 Bed, bath and table products (cama_mesa_banho) is the top ordered
 category with 11,115 orders, followed by health & beauty (9,670) and
 sports & leisure (8,641) — reflecting strong demand for everyday
