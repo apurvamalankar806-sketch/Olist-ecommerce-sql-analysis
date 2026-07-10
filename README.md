@@ -67,7 +67,7 @@ volume and cancellation risk scale together.
 At R$160.58 per order, the platform targets the mid-range consumer
 segment, consistent with Brazil's e-commerce market positioning.
 
-**Credit card is the dominant payment method**
+**Credit card is the dominant payment method**<br>
 76,505 orders (77% of all transactions) were paid by credit card,
 generating R$12.5M in total payment value. Boleto (a Brazilian bank
 slip) is a distant second at 19,784 orders — reflecting typical
