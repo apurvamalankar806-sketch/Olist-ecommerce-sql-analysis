@@ -44,7 +44,7 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 rate of just 0.6% — indicating a strong and consistent fulfillment
 pipeline across the 2016–2018 period.
 
-**Strong and consistent revenue growth**
+**Strong and consistent revenue growth**<br>
 Monthly revenue grew from R$40,325 in October 2016 to R$977,544 by
 May 2018 — a 24x increase in under 2 years. A notable spike occurred
 in November 2017 (R$987,765) driven by Black Friday, making it the
