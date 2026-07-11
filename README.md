@@ -23,6 +23,7 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 - Python (Pandas, SQLAlchemy, PyMySQL) — data loading and analysis
 - Jupyter Notebook — SQL queries, analysis and visualisations
 - Matplotlib — charts and graphs
+- Power BI — interactive business dashboard
 
 ---
 
