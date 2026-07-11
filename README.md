@@ -41,6 +41,23 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 - Payment method breakdown by revenue
 - Top sellers by revenue
 
+### 🔄 Phase 3 — Seller Performance (up next)
+- Delivery delay analysis (estimated vs actual)
+- Best and worst performing sellers
+- Seller ratings vs revenue correlation
+
+### ⏳ Phase 4 — Customer Analysis
+- Repeat vs one-time customers
+- Cohort retention by signup month
+- Time gap between 1st and 2nd order
+
+### ⏳ Phase 5 — Power BI Dashboard
+- Combined dataset exported from all 9 tables
+- Interactive dashboard covering revenue, sellers,
+  customers, and product performance
+
+---
+
 ## Key Findings
 
 **Order fulfillment is highly reliable**<br>
