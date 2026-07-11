@@ -97,13 +97,13 @@ Brazilian payment preferences.
 ---
 
 ## Project Structure
-
+```
 olist-ecommerce-sql-analysis/
 ├── olist_analysis.ipynb
 ├── olist_combined.csv      ← for Power BI
 ├── charts/                 ← all saved charts
 └── README.md
-
+```
 ---
 
 ## Status
