@@ -7,6 +7,7 @@ marketplace — combining SQL, Python, and Power BI into a full analytics workfl
 
 ---
 
+
 ## Dataset
 
 Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
