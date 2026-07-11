@@ -26,18 +26,20 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 - Power BI — interactive business dashboard
 
 ---
+## Project Phases
 
-## Questions Explored
+### ✅ Phase 1 — Setup & Exploration
+- Loaded all 9 tables into MySQL using Python + SQLAlchemy
+- Fixed datetime inconsistencies
+- Explored order status breakdown, top categories,
+  customer distribution, and average order value
 
-- How are orders distributed across different statuses?
-- Which product categories drive the most orders and revenue?
-- How did revenue trend month over month across 2016–2018?
-- How is revenue distributed across Brazilian states?
-- What is the average order value on the platform?
-- Which payment methods do customers prefer?
-- Which sellers generate the highest revenue?
-
----
+### ✅ Phase 2 — Revenue Analysis
+- Monthly revenue trend (2016–2018)
+- Top 10 product categories by orders
+- Revenue distribution across Brazilian states
+- Payment method breakdown by revenue
+- Top sellers by revenue
 
 ## Key Findings
 
