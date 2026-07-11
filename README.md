@@ -98,11 +98,15 @@ Brazilian payment preferences.
 
 ## Project Structure
 
-- `data/` — schema and table definitions
-- `olist_analysis.ipynb` — all SQL queries, analysis and visualisations
+olist-ecommerce-sql-analysis/
+├── olist_analysis.ipynb
+├── olist_combined.csv      ← for Power BI
+├── charts/                 ← all saved charts
+└── README.md
 
 ---
 
 ## Status
 
 🔄 In progress — Phase 2 (Revenue Analysis) complete
+
