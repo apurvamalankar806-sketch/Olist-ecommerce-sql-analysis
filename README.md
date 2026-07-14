@@ -3,7 +3,7 @@
 A business intelligence case study on 100,000+ Brazilian e-commerce orders.
 This project explores sales distribution, customer behaviour, product performance,
 and revenue trends across a real-world dataset from Brazil's largest e-commerce
-marketplace — combining SQL, Python, and Power BI into a full analytics workflow.
+marketplace — combining SQl, Python, and Power BI into a full analytics workflow.
 
 ---
 
